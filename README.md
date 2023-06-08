@@ -15,10 +15,13 @@ L'objectif est de suivre les consignes tout en n'utilisant PAS les bibliothèque
 ## Installation et exécution de l'application
 
 
-### Logiciels
- 
-### Etapes pour l'exécution 
 
+### Logiciels
+ utilisation du logiciel Intellij 
+mais tout autre logiciel convient 
+
+### Etapes pour l'exécution 
+il suffit de lancer le run dans votre logiciel 
 ## Sources
 
 ## Changelog
